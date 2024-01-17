@@ -65,7 +65,7 @@ nav ul a{
 .header-img{
     width: 1300px;
     height: 500px;
-    background-image:linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('./Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-image:linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%), url('../Images/Group\ 13\ \(1\)\ \(1\).png');
     margin-left: 100px;
     border-radius: 15px;
     background-repeat: no-repeat;
@@ -250,7 +250,7 @@ form button i{
     width: 49%;
     height: 100%;
     border-radius: 16px;
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('./Images/Rectangle\ 5.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../Images/Rectangle\ 5.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -269,7 +269,7 @@ form button i{
     height: 100%;
     margin-left: 24px;
     border-radius: 16px;
-    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),  url('./Images/Rectangle\ 8.png');
+    background-image:linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%),  url('../Images/Rectangle\ 8.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -296,7 +296,7 @@ form button i{
     height: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('./Images/Rectangle\ 6.png');
+    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../Images/Rectangle\ 6.png');
     border-radius: 16px;
 }
 
@@ -317,7 +317,7 @@ form button i{
     background-repeat: no-repeat;
     border-radius: 16px;
     padding-left: 24px;
-    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('./Images/Rectangle\ 7.png');
+    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../Images/Rectangle\ 7.png');
 }
 
 .fourth p{
@@ -337,7 +337,7 @@ form button i{
     background-repeat: no-repeat;
     border-radius: 16px;
     padding-left: 24px;
-    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('./Images/Rectangle\ 9.png');
+    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../Images/Rectangle\ 9.png');
 }
 
 .fifth p{
@@ -364,7 +364,7 @@ form button i{
     background-size: cover;
     background-repeat: no-repeat;
     padding-left: 24px;
-    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('./Images/Rectangle\ 11.png');
+    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../Images/Rectangle\ 11.png');
 }
 
 .six p{
@@ -384,7 +384,7 @@ form button i{
     background-repeat: no-repeat;
     border-radius: 16px;
     padding-left: 24px;
-    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('./Images/Rectangle\ 10.png');
+    background-image: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url('../Images/Rectangle\ 10.png');
 }
 
 .seven p{
@@ -619,7 +619,7 @@ form button i{
 .Newsletter-div{
     width: 55%;
     height: 100%;
-    background-image: url('./Images/Rectangle\ 8\ \(1\).png');
+    background-image: url('../Images/Rectangle\ 8\ \(1\).png');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 16px;
