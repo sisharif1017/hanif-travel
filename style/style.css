@@ -396,6 +396,140 @@ form button i{
     font-weight: 800;
 }
 
+/* choose action style */
+
+.choose-title{
+    color: #131318;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.choose-text{
+    color: rgba(19, 19, 24, 0.70);
+    padding-top: 24px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.first-choose{
+    margin-left: 100px;
+    margin-top: 48px;
+    width: 1300px;
+    height: 300px;
+    display: flex;
+}
+
+.first-first-choose{
+    width: 49%;
+    height: 100%;
+    background: rgba(251, 181, 99, 0.05);
+    border-radius: 16px;
+}
+
+.first-first-choose img{
+    width: 64px;
+    height: 64px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.first-first-choose-title{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    padding-top: 32px;
+    padding-left: 32px;
+}
+
+.first-first-choose-text{
+    color: #5A5A5D;
+    font-size: 16px;
+    padding-top: 16px;
+    padding-left: 32px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+
+.first-seceond-choose{
+    width: 49%;
+    height: 100%;
+    border-radius: 16px;
+    margin-left: 24px;
+    background: rgba(41, 206, 246, 0.05);
+}
+
+.first-seceond-choose img{
+    width: 64px;
+    height: 64px;
+    padding-top: 32px;
+    padding-left: 32px;
+}
+
+
+.first-seceond-choose-title{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.first-seceond-choose-text{
+    color: #5A5A5D;
+    font-size: 16px;
+    padding-top: 16px;
+    padding-left: 32px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+
+.seceond-choose{
+    margin-left: 100px;
+    margin-top: 24px;
+    width: 1300px;
+    justify-content: space-evenly;
+    height: 300px;
+    display: flex;
+}
+
+.seceond-first-choose{
+    width: 49%;
+    height: 100%;
+    border-radius: 16px;
+    background: rgba(233, 68, 68, 0.05);
+}
+
+.seceond-first-choose img{
+    width: 64px;
+    height: 64px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+
+.seceond-first-choose-title{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    padding-top: 32px;
+    padding-left: 32px;
+}
+
+.seceond-first-choose-text{
+    color: #5A5A5D;
+    font-size: 16px;
+    padding-top: 16px;
+    padding-left: 32px;
+    font-weight: 400;
+    line-height: 26px; 
+}
+
+
+
 
 
 
