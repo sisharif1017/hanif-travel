@@ -54,7 +54,7 @@ nav ul li{
     font-size: 34px;
 }
 
-.header-discription{
+.header-text{
     color: #FFF;
     padding-top: 40px;
     padding-left: 15px;
@@ -81,5 +81,264 @@ form button{
 
 form button{
     width: 174px;
+}
+
+/* Popular Style Start*/
+
+
+.popular{
+    width: 90%;
+    height: auto;
+    margin-left: 5%;
+    display: grid;
+}
+
+.popular-section{
+    width: 100%;
+    height: auto;
+}
+
+.popular-title{
+    width: 100%;
+    font-size: 28px;
+}
+
+.popular-text{
+    width: 100%;
+    height: auto;
+}
+
+.popular ul{
+    width: 100%;
+}
+
+.seceond-popular-text{
+    width: 100%;
+}
+
+.popular-btn{
+    margin-top: 38px;
+    margin-bottom: 40px;
+}
+
+.popular img{
+    width: 90%;
+    height: auto;
+}
+
+/* Destination Style Start*/
+
+.destination-text{
+    padding-right: 10px;
+}
+
+.first-row{
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 90%;
+    height: auto;
+    display: grid;
+}
+
+.first{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+.seceond{
+    width: 100%;
+    height: 300px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.seceond-row{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 90%;
+    height: auto;
+    display: grid;
+}
+
+.thired{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+.fourth{
+    width: 93%;
+    height: 300px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.fifth{
+    width: 93%;
+    height: 300px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.thired-row{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 90%;
+    height: auto;
+    display: grid;
+}
+
+.six{
+    width: 93%;
+    margin-left: 0px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+
+.seven{
+    width: 93%;
+    margin-left: 0px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+
+/* Choose Style Start*/
+
+
+.first-choose{
+    margin-left: 10px;
+    margin-top: 48px;
+    width: 100%;
+    height: auto;
+    display: grid;
+}
+
+.first-first-choose{
+    width: 90%;
+    margin-right: 5%;
+    height: auto;
+}
+
+
+.first-first-choose-text{
+    padding-bottom: 32px;
+}
+
+.first-seceond-choose{
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 0px;
+    height: auto;
+}
+
+
+
+
+.first-seceond-choose-text{
+    padding-bottom: 32px;
+}
+
+.seceond-choose{
+    margin-left: 10px;
+    margin-top: 48px;
+    width: 100%;
+    height: auto;
+    display: grid;
+}
+
+.seceond-first-choose{
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 0px;
+    height: auto;
+}
+
+.seceond-first-choose-text{
+    padding-bottom: 32px;
+}
+
+/* Newsletter style start*/
+
+.Newsletter{
+    width: 100%;
+    height: auto;
+    display: grid;
+    margin-top: 100px;
+    margin-left: 1px;
+}
+
+.Newsletter-form{
+    border-radius: 16px;
+    border: 1px solid #FF5400;
+    width: 90%;
+    margin-left: 5px;
+    height: auto;
+}
+
+
+
+.Newsletter-btn{
+    margin-bottom: 20px;
+}
+
+.Newsletter-btn a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.Newsletter-div{
+    width: 90%;
+    height: 400px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.rotate{
+    width: 60%;
+    height: auto;
+    margin-top: 270px;
+    margin-left: 35%;
+}
+
+.rotate-title{
+    padding-top: 15px;
+    font-size: 18px;
+}
+
+.rotate-text{
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+
+/*footer style start*/
+
+    
+    
+    
+    .icon{
+        margin-left: 100px;
+        margin-top: 50px;
+        width: 140px;
+    }
+    
+    .seceondline{
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    
+    .copy{
+        padding-top: 50px;
+        text-align: center;
+        font-family: "Inter", sans-serif;
+        color: #131318;
+        font-size: 16px;
+        font-weight: 300;
+    }
+    
+    
+
 }
 
